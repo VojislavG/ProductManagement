@@ -1,7 +1,6 @@
-Dieses Project war ziemlich einfach...aber gut zum Lehrnen.
 
 Derzeitige Möglichkeiten :
-  -Man kann ein Projekt in DatenBank hinzufügen, bearbeiten oder löschen...
+  -Man kann ein Produkt in DatenBank hinzufügen, bearbeiten oder löschen...
   -Jedes neue Produkt hat seinen eigenen Barcode
   -Die Products werden in eine Products-Kiste gelegt
   -Jede Kiste hat einen eigenen Barcode, der sich vom Produkt-Barcode unterscheidet
